@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarotFunctions", "TarotFunctions\TarotFunctions.csproj", "{0721727A-76CE-48F9-808C-CDB511834FC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarotFunctions.Tests", "TarotFunctions.Tests\TarotFunctions.Tests.csproj", "{A2F9125B-F7CF-4E87-B231-FD48A9869309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarotDesktop", "TarotDesktop\TarotDesktop.csproj", "{D3F065BD-0567-43C6-9B27-0E3B8B3D439C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0721727A-76CE-48F9-808C-CDB511834FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0721727A-76CE-48F9-808C-CDB511834FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0721727A-76CE-48F9-808C-CDB511834FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0721727A-76CE-48F9-808C-CDB511834FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F9125B-F7CF-4E87-B231-FD48A9869309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F9125B-F7CF-4E87-B231-FD48A9869309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F9125B-F7CF-4E87-B231-FD48A9869309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F9125B-F7CF-4E87-B231-FD48A9869309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F065BD-0567-43C6-9B27-0E3B8B3D439C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F065BD-0567-43C6-9B27-0E3B8B3D439C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F065BD-0567-43C6-9B27-0E3B8B3D439C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F065BD-0567-43C6-9B27-0E3B8B3D439C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47CCB43B-8F76-4B2D-A0B7-6EC440F8568E}
+	EndGlobalSection
+EndGlobal
