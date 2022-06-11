@@ -17,6 +17,7 @@ namespace TarotFunctions.Tests
             {
                 Assert.That(card.Image, Is.Not.Null);
             }
+            Assert.That(_deck.Back, Is.Not.Null);
         }
 
         [TestCase(5)]
